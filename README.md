@@ -1,4 +1,4 @@
 # Amazon-Clone
 This is my first project "Amazon Clone".
 <br>
-Author - Harsh Rathour (Harsh).
+Author - Harsh Rathour (Simran).
